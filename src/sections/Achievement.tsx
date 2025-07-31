@@ -78,16 +78,11 @@ export const AchievementsSection = () => {
                 {achievement.metric !== "IIIT Pune" ? (
                   <>
                     <AnimatedNumbers
-                      animateToNumber={parseInt(achievement.value?.replace(/,/g, "") || "0")}
-                      locale="en-US"
-                      className="text-white"
-                      formatNumber={(val) => val.toLocaleString()}
-                      configs={(_, i) => ({
-                        mass: 1,
-                        friction: 100,
-                        tensions: 140 * (i + 1),
-                      })}
-                    />
+  animateToNumber={parseInt(achievement.value?.replace(/,/g, "") || "0")}
+  locale="en-US"
+  className="text-white"
+/>
+
                     {achievement.postfix && (
                       <span className="text-gray-400">{achievement.postfix}</span>
                     )}
