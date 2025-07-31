@@ -167,36 +167,36 @@ export const AboutSection = () => {
             <div className="relative overflow-hidden h-48 w-full text-center">
               <div className='absolute w-full animate-scroll-up group-hover:[animation-play-state:paused] flex flex-col gap-4 text-white/15 text-sm leading-relaxed pl-3 pr-3'>
                 <p>
-                  I’m Sudhanshu Kumar, a Computer Science undergraduate at IIIT Pune, passionate about building scalable software systems and solving real-world challenges through code and creativity. My journey so far has been a blend of hands-on development, deep technical learning, and community-driven initiatives.
+                  I&apos;m Sudhanshu Kumar, a Computer Science undergraduate at IIIT Pune, passionate about building scalable software systems and solving real-world challenges through code and creativity. My journey so far has been a blend of hands-on development, deep technical learning, and community-driven initiatives.
                 </p>
                 <p>
-                  I’ve built impactful projects like a Movie Recommendation System using machine learning techniques such as cosine similarity and TF-IDF, and a real-time Online Treasure Hunt platform backed by a robust backend and optimized database systems. These projects reflect my strong grasp of full-stack development and performance-oriented engineering.
+                  I&apos;ve built impactful projects like a Movie Recommendation System using machine learning techniques such as cosine similarity and TF-IDF, and a real-time Online Treasure Hunt platform backed by a robust backend and optimized database systems. These projects reflect my strong grasp of full-stack development and performance-oriented engineering.
                 </p>
                 <p>
-                  Beyond coding, I’m the Founder and Head of QuantNum, the Math Club of IIIT Pune, where I’ve led inter-college math fests and problem-solving sessions that connect mathematics with modern tech. As part of E-Cell IIIT Pune, I’ve contributed to web development, event planning, and marketing, helping organize large-scale events and implement SEO strategies to reach broader audiences.
+                  Beyond coding, I&apos;m the Founder and Head of QuantNum, the Math Club of IIIT Pune, where I&apos;ve led inter-college math fests and problem-solving sessions that connect mathematics with modern tech. As part of E-Cell IIIT Pune, I&apos;ve contributed to web development, event planning, and marketing, helping organize large-scale events and implement SEO strategies to reach broader audiences.
                 </p>
                 <p>
-                  I’ve also served as a Campus Ambassador for IIT Bombay, helping boost student outreach and participation, and currently work as a Placement Coordinator, playing a key role in bridging the gap between students and recruiters to support placement efforts.
+                  I&apos;ve also served as a Campus Ambassador for IIT Bombay, helping boost student outreach and participation, and currently work as a Placement Coordinator, playing a key role in bridging the gap between students and recruiters to support placement efforts.
                 </p>
                 <p>
-                  I believe in combining curiosity with consistency—whether it’s building products, mentoring peers, or leading impactful student initiatives.
+                  I believe in combining curiosity with consistency—whether it&apos;s building products, mentoring peers, or leading impactful student initiatives.
                 </p>
               </div>
               <div className='absolute w-full animate-scroll-up group-hover:[animation-play-state:paused] flex flex-col gap-4 text-white/55 text-sm leading-relaxed pl-3 pr-3'>
                 <p>
-                  I’m Sudhanshu Kumar, a Computer Science undergraduate at IIIT Pune, passionate about building scalable software systems and solving real-world challenges through code and creativity. My journey so far has been a blend of hands-on development, deep technical learning, and community-driven initiatives.
+                  I&apos;m Sudhanshu Kumar, a Computer Science undergraduate at IIIT Pune, passionate about building scalable software systems and solving real-world challenges through code and creativity. My journey so far has been a blend of hands-on development, deep technical learning, and community-driven initiatives.
                 </p>
                 <p>
-                  I’ve built impactful projects like a Movie Recommendation System using machine learning techniques such as cosine similarity and TF-IDF, and a real-time Online Treasure Hunt platform backed by a robust backend and optimized database systems. These projects reflect my strong grasp of full-stack development and performance-oriented engineering.
+                  I&apos;ve built impactful projects like a Movie Recommendation System using machine learning techniques such as cosine similarity and TF-IDF, and a real-time Online Treasure Hunt platform backed by a robust backend and optimized database systems. These projects reflect my strong grasp of full-stack development and performance-oriented engineering.
                 </p>
                 <p>
-                  Beyond coding, I’m the Founder and Head of QuantNum, the Math Club of IIIT Pune, where I’ve led inter-college math fests and problem-solving sessions that connect mathematics with modern tech. As part of E-Cell IIIT Pune, I’ve contributed to web development, event planning, and marketing, helping organize large-scale events and implement SEO strategies to reach broader audiences.
+                  Beyond coding, I&apos;m the Founder and Head of QuantNum, the Math Club of IIIT Pune, where I&apos;ve led inter-college math fests and problem-solving sessions that connect mathematics with modern tech. As part of E-Cell IIIT Pune, I&apos;ve contributed to web development, event planning, and marketing, helping organize large-scale events and implement SEO strategies to reach broader audiences.
                 </p>
                 <p>
-                  I’ve also served as a Campus Ambassador for IIT Bombay, helping boost student outreach and participation, and currently work as a Placement Coordinator, playing a key role in bridging the gap between students and recruiters to support placement efforts.
+                  I&apos;ve also served as a Campus Ambassador for IIT Bombay, helping boost student outreach and participation, and currently work as a Placement Coordinator, playing a key role in bridging the gap between students and recruiters to support placement efforts.
                 </p>
                 <p>
-                  I believe in combining curiosity with consistency—whether it’s building products, mentoring peers, or leading impactful student initiatives.
+                  I believe in combining curiosity with consistency—whether it&apos;s building products, mentoring peers, or leading impactful student initiatives.
                 </p>
               </div>
             </div>
