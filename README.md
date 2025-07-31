@@ -34,7 +34,6 @@ Welcome to my **developer portfolio**, built using **Next.js**, **Tailwind CSS**
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/imsudhanshu09/portfolio.git
-cd portfolio
 ```
 
 ### 2. Install Dependencies
