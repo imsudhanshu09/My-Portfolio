@@ -78,7 +78,7 @@ export const AchievementsSection = () => {
                 {achievement.metric !== "IIIT Pune" ? (
                   <>
                     <AnimatedNumbers
-                      animateToNumber={parseInt(achievement.value.replace(/,/g, ""))}
+                      animateToNumber={parseInt(achievement.value?.replace(/,/g, "") || "0")}
                       locale="en-US"
                       className="text-white"
                       formatNumber={(val) => val.toLocaleString()}
