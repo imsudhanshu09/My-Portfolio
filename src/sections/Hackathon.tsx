@@ -83,7 +83,7 @@ export const Hackathon = () => {
 
         {/* 👇 Scroll hint arrow for mobile */}
         <div className="flex justify-center md:hidden mt-4">
-          <div className="animate-bounce text-white/60 text-xs flex items-center gap-1">
+          <div className="animate-bounce text-white/90 text-xs flex items-center gap-1">
             <span>Swipe right</span>
             <svg
               xmlns="http://www.w3.org/2000/svg"
