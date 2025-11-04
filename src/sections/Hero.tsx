@@ -189,7 +189,7 @@ export const HeroSection = () => {
               href="/#contact"
               className="px-6 py-3 md:text-1xl rounded-full bg-gradient-to-br from-emerald-400 to-sky-500 text-white hover:opacity-90 text-center border-2 border-transparent hover:border-white bg-clip-padding"
             >
-              Hire Me
+              Let&apos;s Connect
             </Link>
             <Link
               href="https://drive.google.com/file/d/1JUMZp4CrVj01tZoDQ-nYmuuDxM-Xj-Zu/view?usp=drivesdk"
