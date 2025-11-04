@@ -28,7 +28,7 @@ const portfolioProjects = [
       { title: "Improved engagement by 30%." },
     ],
     techStack: ["Python", "Scikit-learn", "Pandas", "Cosine Similarity"],
-    liveLink: "https://youtu.be/7hi5zwO75yc",
+    liveLink: "https://github.com/imsudhanshu09/Movie_Recommendation",
     githubLink: "https://github.com/imsudhanshu09/Movie_Recommendation",
     image: lightSaasLandingPage,
   },
