@@ -1,6 +1,6 @@
 import OTH from "@/assets/images/OTH.jpg";
-import lightSaasLandingPage from "@/assets/images/light-saas-landing-page.png";
-import aiStartupLandingPage from "@/assets/images/ai-startup-landing-page.png";
+import MoviePic from "@/assets/images/movie_pic.jpg";
+import FisherPic from "@/assets/images/fish_pic.png";
 import Image from 'next/image';
 import CheckCircleIcon from '@/assets/icons/check-circle.svg';
 import ArrowUpRightIcon from '@/assets/icons/arrow-up-right.svg';
@@ -28,10 +28,29 @@ const portfolioProjects = [
       { title: "Improved engagement by 30%." },
     ],
     techStack: ["Python", "Scikit-learn", "Pandas", "Cosine Similarity"],
-    liveLink: "https://github.com/imsudhanshu09/Movie_Recommendation",
+    liveLink: "https://imsudhanshu09-movie-recommendation-app-uxojgu.streamlit.app/",
     githubLink: "https://github.com/imsudhanshu09/Movie_Recommendation",
-    image: lightSaasLandingPage,
+    image: MoviePic,
   },
+  {
+  title: "FishMaster",
+  results: [
+    { title: "Prevent Boundary Crossings with Smart Geofencing Alerts." },
+    { title: "Empower Fishermen with Real-Time Weather and Effort Zone Insights." },
+    { title: "Enhance Safety and Sustainability through AI-Guided Navigation." },
+  ],
+  techStack: [
+    "Flutter",
+    "Python",
+    "Firebase",
+    "OpenRouteService API",
+    "Machine Learning"
+  ],
+  liveLink: "https://thunderous-blini-970858.netlify.app/",
+  githubLink: "https://github.com/imsudhanshu09/FishMaster",
+  image: FisherPic,
+},
+
   // {
   //   title: "AI Startup Landing Page",
   //   results: [

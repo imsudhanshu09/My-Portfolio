@@ -61,7 +61,7 @@ const AnimatedNumbers = dynamic(() => import("react-animated-numbers"), {
 
 const achievementsList = [
   { metric: "IIIT Pune", postfix: "CSE" },
-  { metric: "Projects", value: "2", postfix: "+" },
+  { metric: "Projects", value: "3", postfix: "+" },
   { metric: "Hackathons", value: "5", postfix: "+" },
   { metric: "LeetCode Questions", value: "400", postfix: "+" },
 ];

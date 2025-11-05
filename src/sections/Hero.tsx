@@ -192,7 +192,7 @@ export const HeroSection = () => {
               Let&apos;s Connect
             </Link>
             <Link
-              href="https://drive.google.com/file/d/1JUMZp4CrVj01tZoDQ-nYmuuDxM-Xj-Zu/view?usp=drivesdk"
+              href="https://drive.google.com/file/d/1pqTGdQyApULw5mKHS0dnRgHxHd_8ub80/view?usp=sharing"
               className="relative md:text-1xl inline-block px-6 py-3 rounded-full text-white text-center
               before:absolute before:inset-0 before:rounded-full 
               before:bg-gradient-to-br before:from-emerald-400 before:to-sky-500 

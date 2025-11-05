@@ -26,6 +26,10 @@ import VScodeIcon from '@/assets/icons/Visual Studio Code (VS Code).svg';
 import cppIcon from '@/assets/icons/C++ (CPlusPlus).svg';
 import dockerIcon from '@/assets/icons/Docker.svg';
 import figmaIcon from '@/assets/icons/Figma.svg';
+import DBMSIcon from '@/assets/icons/DBMS.svg';
+import CNIcon from '@/assets/icons/CN.svg';
+import OSIcon from '@/assets/icons/OS.svg';
+import OOPIcon from '@/assets/icons/OOP.svg';
 
 
 const toolboxItems = [
@@ -75,11 +79,11 @@ const toolboxItems = [
   },
   {
     title: 'Operating System',
-    iconType: ChromeIcon,
+    iconType: OSIcon,
   },
   {
     title: 'DBMS',
-    iconType: ChromeIcon,
+    iconType: DBMSIcon,
   },
   {
     title: 'C++',
@@ -87,11 +91,11 @@ const toolboxItems = [
   },
   {
     title: 'OOPS',
-    iconType: ChromeIcon,
+    iconType: OOPIcon,
   },
   {
     title: 'Computer Netwoks',
-    iconType: ChromeIcon,
+    iconType: CNIcon,
   },
   {
     title: 'VS Code',
@@ -117,13 +121,19 @@ const hobbies = [
   {
     title: 'Singing',
     emoji: '🎤',
-    left: "50%",
+    left: "55%",
     top: "5%",
+  },
+  {
+    title: 'Chess',
+    emoji: '♟️',
+    left: "75%",
+    top: "9%",
   },
   {
     title: 'Cricket',
     emoji: '🏏',
-    left: "10%",
+    left: "8%",
     top: "35%",
   },
   {
@@ -135,14 +145,20 @@ const hobbies = [
   {
     title: 'Writing',
     emoji: '✍️',
-    left: "70%",
+    left: "60%",
     top: "45%",
   },
   {
     title: 'Teaching',
     emoji: '👨‍🏫',
-    left: "5%",
+    left: "2%",
     top: "65%",
+  },
+  {
+    title: 'Travelling',
+    emoji: '✈️',
+    left: "25%",
+    top: "75%",
   },
 ]
 
