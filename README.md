@@ -86,7 +86,7 @@ npx vercel --prod
 
 ## 👨‍💻 Author
 
-Made with 💖 by **Sudhanshu Kumar**  
+Made by **Sudhanshu Kumar**  
 [GitHub](https://github.com/imsudhanshu09) | [LinkedIn](https://www.linkedin.com/in/sudhanshu-kumar-a6657a287)
 
 ---
