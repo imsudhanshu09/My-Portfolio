@@ -144,7 +144,7 @@ import Image from "next/image";
 import { TypeAnimation } from "react-type-animation";
 import { motion } from "framer-motion";
 import Link from "next/link";
-import my_pic from '@/assets/images/btp_pic.jpg';
+import my_pic from '@/assets/images/office_pic.jpeg';
 
 export const HeroSection = () => {
   return (
